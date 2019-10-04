@@ -52,7 +52,7 @@
                             <th>Image</th>
                             <th>Name</th>
                             <th>Department</th>
-                            <th>Division</th>
+                            <th>Designation</th>
                             <th>Join Date</th>
                             <th>Options</th>
                         </tr>
