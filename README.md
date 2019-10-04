@@ -11,3 +11,5 @@
 - Modified division tab to designation tab as per the requirements.
 - Removed the username attribute.
 - Customized the login page.
+- Removed the countries table from our UI as well as Database.
+
