@@ -19,10 +19,10 @@
                             <tr>
                                 <th>ID</th>
                                 <th>City Name</th>
-                                <th>Zip Code</th>
+                                <!-- <th>Zip Code</th> -->
                                 <th>Created at</th>
                                 <th>Updated at</th>
-                                <th>Options</th>
+                                <!-- <th>Options</th> -->
                             </tr>
                         </thead>
                         <tbody id="item-table">
@@ -35,7 +35,7 @@
                                         <td>{{$city->zip_code}}</td>
                                         <td>{{$city->created_at}}</td>
                                         <td>{{$city->updated_at}}</td>
-                                        <td>
+                                        <!-- <td>
                                             <div class="row mb-0">
                                               <div class="col">
                                                     <a href="{{route('cities.edit',$city->id)}}" class="btn btn-floating btn-small waves=effect waves-light orange"><i class="material-icons">mode_edit</i></a>
@@ -48,7 +48,7 @@
                                                     </form>
                                                 </div>
                                             </div>
-                                        </td>
+                                        </td> -->
                                     </tr>
                                 @endforeach
                             @else
