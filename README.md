@@ -86,7 +86,7 @@
 
 #### ScreenShot
 
-![screen shot](https://drive.google.com/file/d/1NnS1H5T_KeAWKGSpoOpsONksLhJK6ggG/view?usp=sharing)
+![screen shot](https://github.com/gne-ldh/SRKAS/blob/master/screenshot/Dashboard.png)
 
 Please star the project if you like it. Thank you!
 
