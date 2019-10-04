@@ -74,7 +74,12 @@
                 <div class="card-panel green col s8 offset-s2 m4 l4 xl2 mx-20">
                     <div class="row">
                         <div class="col s7 xl7">
+<<<<<<< HEAD
                             <i class="material-icons medium white-text pt-5">attach_money</i>
+=======
+                            <i style="font-size:20px;">₹
+</i>
+>>>>>>> f49572c36c3ad6d54a0ddd8c9e6721c9bf9c6340
                             <h6 class="no-padding txt-md">Salaries</h6>
                         </div>
                         <div class="col s5 xl5">
@@ -89,7 +94,11 @@
                 <div class="mx-20 card-panel light-blue col s8 offset-s2 m4 offset-m2 l4 offset-l2 xl2 offset-xl1 ml-14">
                     <div class="row">
                         <div class="col s7 xl7">
+<<<<<<< HEAD
                             <i class="material-icons medium white-text pt-5">attach_money</i>
+=======
+                            <i style="font-size:20px">₹</i>
+>>>>>>> f49572c36c3ad6d54a0ddd8c9e6721c9bf9c6340
                             <h6 class="no-padding txt-md">Salaries</h6>
                         </div>
                         <div class="col s5 xl5">
@@ -129,6 +138,7 @@
     </div>
     <div class="container-fluid">
         <div class="card-panel">
+        
             <canvas id="employee"></canvas>
         </div>
     </div>
