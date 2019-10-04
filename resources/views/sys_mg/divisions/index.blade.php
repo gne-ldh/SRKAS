@@ -1,10 +1,10 @@
 @extends('layouts.app')
 @section('content')
 <div class="container">
-    <h4 class="grey-text text-darken-2 center">Division Management</h4>
+    <h4 class="grey-text text-darken-2 center">Designation Management</h4>
     
     {{-- Include the searh component with with title and route --}}
-    @component('sys_mg.inc.search',['title' => 'Division' , 'route' => 'divisions.search'])
+    @component('sys_mg.inc.search',['title' => 'Designation' , 'route' => 'divisions.search'])
     @endcomponent
     
     <div class="row">
@@ -12,13 +12,13 @@
         <div class="card col s12 m12 l12 xl12">
             <div class="card-content">
                 <div class="row">
-                    <h5 class="pl-15 grey-text text-darken-2">Division List</h5>
+                    <h5 class="pl-15 grey-text text-darken-2">Designation List</h5>
                     <!-- Table that shows Division List -->
                     <table class="responsive-table col s12 m12 l12 xl12">
                         <thead class="grey-text text-darken-2">
                             <tr>
                                 <th>ID</th>
-                                <th>Division Name</th>
+                                <th>Designation Name</th>
                                 <th>Created at</th>
                                 <th>Updated at</th>
                                 <th>Options</th>
