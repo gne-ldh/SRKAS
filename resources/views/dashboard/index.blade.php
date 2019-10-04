@@ -74,7 +74,8 @@
                 <div class="card-panel green col s8 offset-s2 m4 l4 xl2 mx-20">
                     <div class="row">
                         <div class="col s7 xl7">
-                            <i class="material-icons medium white-text pt-5">attach_money</i>
+                            <i style="font-size:20px;">₹
+</i>
                             <h6 class="no-padding txt-md">Salaries</h6>
                         </div>
                         <div class="col s5 xl5">
@@ -129,6 +130,7 @@
     </div>
     <div class="container-fluid">
         <div class="card-panel">
+        
             <canvas id="employee"></canvas>
         </div>
     </div>
