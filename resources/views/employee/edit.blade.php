@@ -47,7 +47,8 @@
                                 <span class="{{$errors->has('address') ? 'helper-text red-text' : ''}}">{{$errors->has('address') ? $errors->first('address') : ''}}</span>
                             </div>
                             <div class="input-field col s12 m6 l6 xl4 offset-xl2">
-                                <i class="material-icons prefix">person_outline</i>
+                                <i class="material-icons prefix">person_outline</i><br>
+
                                 <select name="gender">
                                     <option value="" disabled>Choose a gender</option>
                                     <!--
@@ -60,7 +61,7 @@
                                 <label>Gender</label>
                             </div>
                             <div class="input-field col s12 m6 l6 xl4">
-                                <i class="material-icons prefix">attach_money</i>
+                                <i style="font-size:20px;">₹</i>
                                 <select name="salary">
                                     <option value="" disabled>Choose a Salary</option>
                                     @foreach($salaries as $salary)
