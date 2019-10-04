@@ -75,8 +75,8 @@
                     <div class="row">
                         <div class="col s7 xl7">
 
-                           <!-- <i class="material-icons medium white-text pt-5">attach_money</i> -->
-                            <i style="font-size:45px;">₹</i>
+                            <i style="font-size:45px;">₹</i> 
+                           <!-- <i style="font-size:45px;">₹</i> -->
 
                             <h6 class="no-padding txt-md">Salaries</h6>
                         </div>
