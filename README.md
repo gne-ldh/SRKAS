@@ -10,5 +10,4 @@
 - Modified the Copywrite..
 - Modified division tab to designation tab as per the requirements.
 - Removed the username attribute.
-- Removed the zip code column.
 - Customized the login page.
