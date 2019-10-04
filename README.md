@@ -1,4 +1,4 @@
-# EMPLOYEE'S MANAGEMENT INFORMATION
+# EMPLOYEES' INFORMATION MANAGEMENT
 (https://docs.google.com/document/d/e/2PACX-1vQEq-pOaY6tpcgOrz-_Okw_L8bIZoDvq8Fr1WW6xD6ExY_aUJm9INa-If0mb2sM8ql7YbLsmGSK6IyU/pub)
 
 ### #hackGNE
@@ -18,13 +18,12 @@
 #### Customizations are as follows-
 
 - Modified currency from USD to INR.
-- Modified the Copywrite..
-- Modified division tab to designation tab as per the requirements.
-- Removed the username attribute.
-- Customized the login page.
-- Removed the countries table from our UI as well as Database.
+- Modified the Copyright.
+- Modified Division tab to Designation tab as required.
+- Removed the Username attribute.
+- Customised the login page.
 
-## PRE-REQUISITES..
+## PRE-REQUISITES.
 
 ### php, laravel, xampp, mysql.
 
