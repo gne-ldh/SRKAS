@@ -24,7 +24,7 @@
                                 <select name="options" id="options">
                                     <option value="first_name">First Name</option>
                                     <option value="last_name">Last Name</option>
-                                    <option value="username">Username</option>
+                                    <!--<option value="username">Username</option>-->
                                     <option value="email">Email</option>
                                 </select>
                                 <label for="options">Search by:</label>
@@ -52,7 +52,7 @@
                                 <th>ID</th>
                                 <th>Picture</th>
                                 <th>Name</th>
-                                <th>Username</th>
+                                <!-- <th>Username</th> -->
                                 <th>Email</th>
                                 <th>Options</th>
                             </tr>
