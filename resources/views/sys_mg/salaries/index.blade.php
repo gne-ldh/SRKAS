@@ -42,7 +42,7 @@
                                                     <form action="{{route('salaries.destroy',$salary->id)}}" method="POST">
                                                         @method('DELETE')
                                                         @csrf()
-                                                        <button type="submit" class="btn btn-floating btn-small waves=effect waves-light red"><i class="material-icons">delete</i></button>
+                                                      <button type="submit" class="btn btn-floating btn-small waves=effect waves-light red"><i class="material-icons">delete</i></button>
                                                     </form>
                                                 </div>
                                             </div>
@@ -83,4 +83,4 @@
         <i class="large material-icons">add</i>
     </a>
 </div> 
-@endsection
+@endsection:

@@ -117,7 +117,7 @@
                     <div class="row">
                         <div class="col s7 xl7">
                             <i class="material-icons medium white-text pt-5">business</i>
-                            <h6 class="no-padding txt-md">Divisions</h6>
+                            <h6 class="no-padding txt-md">Designation</h6>
                         </div>
                         <div class="col s5 xl5">
                             <p class="no-padding center mt txt-sm">Total({{$t_divisions}})</p>
