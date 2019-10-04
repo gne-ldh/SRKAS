@@ -86,7 +86,7 @@
 
 #### ScreenShot
 
-![screen shot](https://github.com/gne-ldh/SRKAS/blob/master/screenshot/Dashboard.png)
+![screen shot](https://github.com/KirtiGautam/SRKAS/blob/master/screenshot/Dash_1.png)
 
 Please star the project if you like it. Thank you!
 

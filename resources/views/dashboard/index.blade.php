@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </a>
-            <!-- 
+            
             <a href="/countries" class="white-text">
                 <div class="mx-20 card-panel light-blue col s8 offset-s2 m4 offset-m2 l4 offset-l2 xl2 offset-xl1 ml-14">
                     <div class="row">
@@ -68,16 +68,15 @@
                         </div>
                     </div>
                 </div>
-            </a> -->
+            </a> 
 
-   <!--         <a href="/salaries" class="white-text">
+            <a href="/salaries" class="white-text">
                 <div class="card-panel green col s8 offset-s2 m4 l4 xl2 mx-20">
                     <div class="row">
                         <div class="col s7 xl7">
 
-                            <i class="material-icons medium white-text pt-5">attach_money</i>
-                            <i style="font-size:20px;">₹
-</i>
+                            <i style="font-size:45px;">₹</i> 
+                           <!-- <i style="font-size:45px;">₹</i> -->
 
                             <h6 class="no-padding txt-md">Salaries</h6>
                         </div>
@@ -87,13 +86,13 @@
                     </div>
                 </div>
             </a>
--->
- 
+
+ <!--
             <a href="/salaries" class="white-text">
                 <div class="mx-20 card-panel light-blue col s8 offset-s2 m4 offset-m2 l4 offset-l2 xl2 offset-xl1 ml-14">
                     <div class="row">
                         <div class="col s7 xl7">
-                           <!-- <i class="material-icons medium white-text pt-5">attach_money</i>-->
+                            <i class="material-icons medium white-text pt-5">attach_money</i>
                             <i style="font-size:45px">₹</i>
                             <h6 class="no-padding txt-md">Salaries</h6>
                         </div>
@@ -103,7 +102,7 @@
                     </div>
                 </div>
             </a>
-
+-->
             <a href="/states" class="white-text hide-on-small-only">
                 <div class="card-panel blue col s8 offset-s2 m4 offset-m2 l4 offset-l2 xl2 mx-20">
                     <div class="row">
