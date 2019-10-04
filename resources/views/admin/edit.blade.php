@@ -22,12 +22,12 @@
                                 <label for="last_name">Last Name</label>
                                 <span class="{{$errors->has('first_name') ? 'helper-text red-text' : ''}}">{{$errors->first('first_name')}}</span>
                             </div>
-                            <div class="input-field col s12 m8 offset-m2 l8 offset-l2 xl8 offset-xl2">
+                            <!-- <div class="input-field col s12 m8 offset-m2 l8 offset-l2 xl8 offset-xl2">
                                 <i class="material-icons prefix">person</i>
                                 <input type="text" name="username" id="username" value="{{Request::old('username') ? : $admin->username }}">
                                 <label for="username">Username</label>
                                 <span class="{{$errors->has('username') ? 'helper-text red-text' : ''}}">{{$errors->first('username')}}</span>
-                            </div>
+                            </div> -->
                             <div class="input-field col s12 m8 offset-m2 l8 offset-l2 offset-l2 xl8 offset-xl2">
                                 <i class="material-icons prefix">lock</i>
                                 <input type="password" name="password" id="password" value="{{Request::old('password') ? : '' }}">
