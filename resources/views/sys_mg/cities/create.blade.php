@@ -16,7 +16,7 @@
                             <div class="input-field">
                                 <i class="material-icons prefix">vpn_lock</i>
                                 <input type="number" name="zip_code" id="zip_code" class="validate" value="{{Request::old('zip_code') ? : ''}}">
-                                <label for="zip_code">Zip Code</label>
+                                <label for="zip_code">Pin Code</label>
                                 <span class="{{$errors->has('zip_code') ? 'helper-text red-text' : '' }}">{{$errors->first('zip_code')}}</span>
                             </div>
                             @csrf()
