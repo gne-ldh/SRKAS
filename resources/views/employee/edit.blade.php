@@ -60,7 +60,7 @@
                                 <label>Gender</label>
                             </div>
                             <div class="input-field col s12 m6 l6 xl4">
-                                <i class="material-icons prefix">attach_money</i>
+                                <i style="font-size:20px;">₹</i>
                                 <select name="salary">
                                     <option value="" disabled>Choose a Salary</option>
                                     @foreach($salaries as $salary)
